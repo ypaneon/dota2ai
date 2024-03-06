@@ -6,22 +6,20 @@ local X = {}
 
 X.ItemsToBuy =
 {
-	-- "item_orb_of_venom", -- 毒球
 	"item_tango",
+  	"item_magic_wand",
+  	"item_orb_of_corrosion",
 	"item_phase_boots",
-	"item_magic_wand", --大魔棒7.14
-	"item_falcon_blade",
-	"item_ancient_janggo", --战鼓
-	-- "item_orb_of_corrosion",
-	-- "item_ghost",
-	-- "item_aghanims_shard",
-	"item_ultimate_scepter",
-	"item_spirit_vessel", --大骨灰7.07
-	-- "item_force_staff", --推推7.14
-	"item_black_king_bar", --BKB
-	"item_lotus_orb", --清莲宝珠
+ 	 "item_phylactery",
+  	"item_desolator",
+  	"item_angels_demise",
+  	"item_black_king_bar",
+  	"item_basher",
+  	"item_abyssal_blade",
+  	"item_butterfly",
+  	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
-	"item_sheepstick",
+  	"item_travel_boots_2",
 }
 
 return X
