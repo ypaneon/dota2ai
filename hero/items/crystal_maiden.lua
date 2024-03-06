@@ -7,18 +7,14 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_tango",
-	"item_enchanted_mango",
-	"item_enchanted_mango",
-	-- "item_flask",
-	-- "item_clarity",
-	"item_arcane_boots",
-	-- "item_bracer",
+	"item_null_talisman",
+	"item_tranquil_boots",
 	"item_glimmer_cape", --微光
-	"item_force_staff", --推推7.14
+	"item_boots_of_bearing",
 	-- "item_aghanims_shard", 
 	"item_black_king_bar", --bkb
 	"item_ultimate_scepter", --蓝杖
+	"item_lotus_orb"
 	"item_ultimate_scepter_2",
 	"item_sheepstick", --羊刀
 }
