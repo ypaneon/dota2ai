@@ -7,19 +7,16 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_clarity",
-	"item_branches",
-	"item_branches",
-	"item_branches",
-	"item_boots", --圣殿
+	"item_null_talisman",
 	"item_magic_wand", --大魔棒7.14
 	"item_arcane_boots",
-	"item_aether_lens", --以太之镜7.06
+	"item_phylactery",
 	"item_glimmer_cape", --微光
-	"item_ultimate_scepter", --蓝杖
-	"item_mekansm", --梅肯
-	"item_guardian_greaves", --卫士胫甲
-	"item_octarine_core",
+  	"item_aghanims_shard",
+  	"item_angels_demise",
+  	"item_kaya",
+  	"item_kaya_and_sange",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_sheepstick", --羊刀
 }
