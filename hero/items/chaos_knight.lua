@@ -13,9 +13,10 @@ X.ItemsToBuy =
 	"item_echo_sabre",
 	"item_manta", --分身
 	"item_aghanims_shard",
-	"item_harpoon"
-	"item_black_king_bar",
+	"item_harpoon",
+	"item_diffusal_blade",
 	"item_heart", --龙心7.20
+	"item_disperser",
 	"item_assault", --强袭
 	"item_travel_boots_2",
 }
