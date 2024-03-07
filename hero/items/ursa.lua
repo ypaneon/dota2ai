@@ -7,25 +7,22 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_tango",
-	"item_quelling_blade",
-	"item_orb_of_venom",
-	"item_boots",
+	"item_wraith_band",
 	"item_magic_wand", --大魔棒7.14
 	"item_phase_boots",
 	"item_orb_of_corrosion",
-	"item_lifesteal",
 	"item_diffusal_blade",
 	"item_blink", --跳刀
 	"item_basher", --晕锤7.14
 	"item_black_king_bar", --bkb
-	"item_aghanims_shard",
-	"item_basher",
-	"item_ultimate_scepter",
+	"item_disperser",
 	"item_abyssal_blade",
-	"item_overwhelming_blink",
+	"item_satanic",
+	"item_swift_blink",
+	"item_aghanims_shard",
 	"item_ultimate_scepter_2",
-	"item_skadi",
+	"item_travel_boots_2",
+
 }
 
 return X
