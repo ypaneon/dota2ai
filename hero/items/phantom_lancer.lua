@@ -13,8 +13,9 @@ X.ItemsToBuy =
 	"item_wraith_band",
 	"item_power_treads", --假腿7.21
 	"item_diffusal_blade", --散失刀
-	"item_manta",
+	"item_yasha",
 	"item_ultimate_scepter",
+	"item_manta",
 	"item_heart", --龙心7.20
 	"item_disperser",
 	"item_skadi", --冰眼
