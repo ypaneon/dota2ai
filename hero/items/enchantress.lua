@@ -7,25 +7,17 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_tango",
-	"item_clarity",
-	-- "item_orb_of_venom",
 	"item_null_talisman",
-	"item_null_talisman",
-	"item_boots",
 	"item_magic_wand", --大魔棒7.14
-	-- "item_power_treads",
-	"item_dragon_lance", --魔龙枪
+	"item_power_treads",
 	"item_witch_blade",
-	"item_black_king_bar",
-	"item_force_staff", --推推7.14
-	"item_recipe_hurricane_pike", --大推推7.28
-	"item_ultimate_scepter", --蓝杖
-	"item_sheepstick", --羊刀
-	"item_travel_boots",
-	"item_ultimate_scepter_2",
-	-- "item_monkey_king_bar" --金箍棒7.14
-	"item_revenants_brooch",
+	"item_dragon_lance", --魔龙枪
+	"item_mjollnir",
+	"Item_devastator",
+	"item_aghanims_shard",
+	"item_hurricane_pike",
+	"item_monkey_king_bar", --金箍棒7.14
+	"item_moon_shard",
 	"item_travel_boots_2"
 }
 
