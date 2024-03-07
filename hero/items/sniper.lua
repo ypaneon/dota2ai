@@ -17,7 +17,8 @@ X.ItemsToBuy =
 	"item_hurricane_pike",
 	"item_black_king_bar", --bkb
 	"item_greater_crit",
-	"item_ultimate_scepter_2"
+	"item_ultimate_scepter",
+	"item_ultimate_scepter_2",
 	"item_aghanims_shard",
 	"item_travel_boots_2",
 }
