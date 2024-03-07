@@ -15,7 +15,7 @@ X.ItemsToBuy =
 	"item_guardian_greaves", --卫士胫甲
 	"item_ultimate_scepter",
 	"item_blink", --跳刀
-	"item_heart" --龙心7.20
+	"item_heart", --龙心7.20
 	"item_lotus_orb", --清莲宝珠
 	"item_arcane_blink",
 	"item_ultimate_scepter_2",
