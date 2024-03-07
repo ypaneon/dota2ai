@@ -15,9 +15,11 @@ X.ItemsToBuy =
 	-- "item_hurricane_pike", --大推推7.20
 	"item_ultimate_scepter", --蓝杖
 	"item_satanic", --撒旦7.07
-	"item_aghanims_shard",
 	"item_heart",
+	"item_assault",
+	"item_aghanims_shard",
 	"item_ultimate_scepter_2",
+	"item_travel_boots_2",
 }
 
 return X
