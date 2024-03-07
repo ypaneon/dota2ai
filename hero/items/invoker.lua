@@ -18,6 +18,7 @@ X.ItemsToBuy =
 	"item_skadi",
 	"item_sheepstick",
 	"item_aghanims_shard",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_travel_boots_2",
 }
