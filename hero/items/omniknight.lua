@@ -8,18 +8,20 @@ X.ItemsToBuy =
 {
 	"item_tango",
 	"item_bracer",
-	"item_enchanted_mango",
-	"item_enchanted_mango",
 	"item_magic_wand", --大魔棒7.14
-	"item_soul_ring",
-	"item_arcane_boots", --秘法鞋
-	"item_ghost",
-	"item_mekansm", --梅肯
-	"item_guardian_greaves",
-	"item_ultimate_scepter", --蓝杖
-	"item_force_staff",
+	"item_bracer",
+	"item_phase_boots",
+	"item_echo_sabre",
+	"item_kaya_and_sange", --梅肯
+	"item_aghanims_shard",
+	"item_harpoon",
+	"item_heart",
+	"item_skadi",
+	"item_abyssal_blade",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
-	"item_lotus_orb", --清莲宝珠
+	"item_travel_boots_2",
+	
 }
 
 return X
