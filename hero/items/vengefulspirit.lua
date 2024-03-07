@@ -7,19 +7,18 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_clarity",
-	"item_magic_stick",
+	"item_wraith_band",
+	"item_magic_wand",
 	"item_phase_boots",
-	"item_medallion_of_courage", --勋章
-	"item_force_staff", --推推7.14
-	"item_solar_crest", --大勋章7.20
 	"item_dragon_lance", --魔龙枪
+	"item_desolator",
+	"item_sange_and_yasha",
 	"item_hurricane_pike", --大推推7.20
-	"item_glimmer_cape",
-	"item_black_king_bar",
-	"item_ultimate_scepter",
+	"item_aghanims_shard",
+	"item_butterfly",
+	"item_satanic",
 	"item_ultimate_scepter_2",
-	"item_sheepstick",
+	"item_travel_boots_2",
 }
 
 return X
