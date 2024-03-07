@@ -8,22 +8,18 @@ X.ItemsToBuy =
 {
 	"item_wraith_band", --系带
 	"item_tango",
-	"item_tango",
-	"item_wind_lace",
-    "item_magic_stick",
-	-- "item_wraith_band", --系带
-	"item_boots",
-	"item_magic_wand",
-	"item_arcane_boots",
+    	"item_magic_wand",
+	"item_power_treads",
 	"item_veil_of_discord", --纷争7.20
-	"item_aghanims_shard",
+	"item_shivas_guard",
+	"item_sange_and_yasha",
 	"item_hurricane_pike", --大推推7.20
-	"item_mekansm", --梅肯
-	"item_guardian_greaves", --卫士胫甲
+	"item_skadi",
 	"item_ultimate_scepter", --蓝杖
-	"item_black_king_bar",
 	"item_ultimate_scepter_2",
-	"item_lotus_orb" --清莲宝珠
+	"item_heart",
+	"item_aghanims_shard",
+	"item_travel_boots_2",
 }
 
 return X
