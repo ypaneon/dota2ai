@@ -13,7 +13,7 @@ X.ItemsToBuy =
 	"item_veil_of_discord",
 	"item_shivas_guard",
 	"item_kaya_and_sange",
-	"item_ultimate_scepter"
+	"item_ultimate_scepter",
 	"item_heart", --龙心7.20
 	"item_aghanims_shard",
 	"item_ultimate_scepter_2",
