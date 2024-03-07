@@ -17,10 +17,10 @@ X.ItemsToBuy =
 	"item_hurricane_pike", --大推推7.20
 	"item_black_king_bar",
 	"item_aghanims_shard",
-	"item_ultimate_scepter", --蓝杖
 	"item_butterfly", --蝴蝶
-	"item_ultimate_scepter_2",
 	"item_satanic",
+	"item_ultimate_scepter", --蓝杖
+	"item_ultimate_scepter_2",
 }
 
 return X
