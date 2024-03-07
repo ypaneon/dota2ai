@@ -313,9 +313,9 @@ Consider[4] = function()
 end
 
 -- antimage_mana_overload (Blink Fragment)
-Consider[5] = function()
+Consider[6] = function()
 
-	local abilityNumber = 5
+	local abilityNumber = 6
 	--------------------------------------
 	-- Generic Variable Setting
 	--------------------------------------
