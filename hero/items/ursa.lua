@@ -12,8 +12,8 @@ X.ItemsToBuy =
 	"item_phase_boots",
 	"item_orb_of_corrosion",
 	"item_diffusal_blade",
-	"item_blink", --跳刀
 	"item_basher", --晕锤7.14
+	"item_blink", --跳刀
 	"item_black_king_bar", --bkb
 	"item_disperser",
 	"item_abyssal_blade",
