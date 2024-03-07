@@ -16,6 +16,7 @@ X.ItemsToBuy = {
 	"item_butterfly",
   	"item_skadi",
  	"item_heart",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
   	"item_travel_boots_2",
 }
