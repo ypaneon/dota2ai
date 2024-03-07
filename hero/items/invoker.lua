@@ -8,16 +8,18 @@ X.ItemsToBuy =
 {
 	"item_null_talisman",
 	"item_tango",
-	"item_hand_of_midas",
-	"item_boots",
-	"item_travel_boots",
-	"item_ultimate_scepter",
-	"item_black_king_bar",
-	"item_sphere",
-	"item_cyclone",
-	"item_ultimate_scepter_2",
+	"item_power_treads",
+	"item_witch_blade",
+	"item_dragon_lance",
+	"item_lesser_crit",
+	"item_devastator",
+	"item_greater_crit",
+	"item_hurricane_pike",
+	"item_skadi",
 	"item_sheepstick",
-	"item_wind_waker",
+	"item_aghanims_shard",
+	"item_ultimate_scepter_2",
+	"item_travel_boots_2",
 }
 
 return X
