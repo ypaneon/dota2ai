@@ -9,17 +9,18 @@ X.ItemsToBuy =
 {
 	"item_wraith_band", --系带
 	"item_tango",
-	-- "item_tango",
-	"item_flask",
-	"item_wraith_band", --系带
 	"item_magic_wand",
 	"item_power_treads", --假腿7.21
-	"item_diffusal_blade",
+	"item_javelin",
+	"item_maelstrom",
 	"item_desolator",
-	-- "item_black_king_bar", --bkb
+	"item_lesser_crit",
 	"item_sphere", 
 	"item_greater_crit",
+	"item_mjollnir",
 	"item_butterfly",
+	"item_aghanims_shard",
+	"item_travel_boots_2",
 }
 
 return X
