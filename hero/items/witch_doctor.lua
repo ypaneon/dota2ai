@@ -11,7 +11,7 @@ X.ItemsToBuy =
 	"item_arcane_boots",
 	"item_glimmer_cape", --微光
 	"item_ultimate_scepter", --蓝杖
-	"item_sphere",
+	"item_black_king_bar",
 	"item_octarine_core",
 	"item_guardian_greaves",
 	"item_sheepstick",
