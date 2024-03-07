@@ -8,7 +8,6 @@ X.ItemsToBuy =
 {
 	"item_tango",
 	"item_wraith_band", --系带
-	"item_flask",
 	"item_magic_wand",
 	"item_phase_boots", --相位7.21
 	"item_maelstrom",
@@ -17,6 +16,10 @@ X.ItemsToBuy =
 	"item_butterfly",
 	"item_mjollnir", --大雷锤
 	"item_greater_crit",
+	"item_ultimate_scepter",
+	"item_ultimate_scepter_2",
+	"item_aghanims_shard",
+	"item_travel_boots_2",
 }
 
 return X
