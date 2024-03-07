@@ -18,6 +18,7 @@ X.ItemsToBuy =
 	"item_mjollnir",
 	"item_abyssal_blade",
 	"item_butterfly",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
   	"item_travel_boots_2",
 }
