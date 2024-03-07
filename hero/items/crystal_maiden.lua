@@ -14,9 +14,11 @@ X.ItemsToBuy =
 	-- "item_aghanims_shard", 
 	"item_black_king_bar", --bkb
 	"item_ultimate_scepter", --蓝杖
-	"item_lotus_orb"
-	"item_ultimate_scepter_2",
+	"item_lotus_orb",
 	"item_sheepstick", --羊刀
+	"item_ultimate_scepter_2",
+	"item_octarine_core",
+	
 }
 
 return X
