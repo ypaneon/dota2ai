@@ -14,9 +14,9 @@ X.ItemsToBuy =
 	"item_orchid", --紫苑
 	"item_yasha_and_kaya",
 	"item_aghanims_shard",
-	"item_mjollnir", --bkb
+	"item_mjollnir", 
 	"item_devastator",
-	"item_bloodthorn" --血棘
+	"item_bloodthorn", --血棘
 	"item_ultimate_scepter", --蓝杖
 	"item_ultimate_scepter_2",
 	"item_sheepstick",
