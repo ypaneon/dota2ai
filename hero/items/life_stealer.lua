@@ -15,7 +15,7 @@ X.ItemsToBuy =
 	"item_basher",
 	"item_sange_and_yasha",
 	"item_abyssal_blade",
-	"item_assault"
+	"item_assault",
 	"item_heart",
 	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
