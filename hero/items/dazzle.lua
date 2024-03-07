@@ -16,7 +16,8 @@ X.ItemsToBuy =
 	"item_ultimate_scepter", 
 	"item_guardian_greaves", --卫士胫甲
 	"item_sheepstick", --羊刀
-	"item_ultimate_scepter_2"
+	"item_ultimate_scepter_2",
+	"item_travel_boots_2",
 }
 
 return X
