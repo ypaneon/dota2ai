@@ -7,18 +7,18 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_branches",
-	"item_branches",
-
-	"item_tranquil_boots",
 	"item_magic_wand",
-	"item_aether_lens",
-	"item_cyclone",
-
-	"item_blink",
-	"item_octarine_core",
-	"item_wind_waker",
-
+	"item_wraith_band",
+	"item_power_treads",
+	"item_falcon_blade",
+        "item_javelin",
+	"item_maelstrom",
+	"item_gungir",
+	"item_greater_crit",
+	"item_desolator",
+	"item_monkey_king_bar",
+	"item_butterfly",
+	"item_travel_boots_2",
 }
 
 return X
