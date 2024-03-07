@@ -14,11 +14,12 @@ X.ItemsToBuy =
 	"item_lesser_crit",
 	"item_black_king_bar", --bkb
 	"item_greater_crit", --大炮
+	"item_aghanims_shard",
 	"item_harpoon",
-	"item_ultimate_scepter",
 	"item_satanic",
-	"item_ultimate_scepter_2",
 	"item_assault",
+	"item_ultimate_scepter",
+	"item_ultimate_scepter_2",
 	"item_travel_boots_2",
 }
 
