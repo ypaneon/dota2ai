@@ -12,7 +12,7 @@ X.ItemsToBuy =
 	"item_magic_wand",
 	"item_wraith_band",
 	"item_power_treads",
-	"item_diffusal_blade" --散失刀
+	"item_diffusal_blade",
 	"item_manta",
 	"item_vladmir",
 	"item_orchid",
