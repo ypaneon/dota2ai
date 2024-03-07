@@ -14,7 +14,7 @@ X.ItemsToBuy =
 	"item_kaya",
 	"item_kaya_and_sange", --以太之镜7.06
 	"item_angels_demise",
-	"item_glimmer_cape"
+	"item_glimmer_cape",
 	"item_ultimate_scepter",
 	"item_ethereal_blade",
 	"item_ultimate_scepter_2",
