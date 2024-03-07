@@ -12,9 +12,9 @@ X.ItemsToBuy =
 	"item_power_treads",
 	"item_dragon_lance", --魔龙枪
 	"item_lesser_crit",
+	"item_yasha", --夜叉
 	-- "item_aghanims_shard",
 	"item_ultimate_scepter", --蓝杖
-	-- "item_yasha", --夜叉
 	-- "item_mjollnir",
 	"item_manta",
 	"item_greater_crit",
