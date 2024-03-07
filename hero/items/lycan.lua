@@ -7,16 +7,19 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_branches",
-	"item_branches",
-	"item_branches",
-	"item_helm_of_the_dominator",
+	"item_magic_wand",
+	"item_wraith_band",
+	"item_power_treads",
 	"item_vladmir", --祭品7.21
-	"item_helm_of_the_overlord", --level 2 helm dominator 7.30
-	"item_phase_boots",
+	"item_basher",
 	"item_black_king_bar", --bkb
+	"item_abyssal_blade",
+	"item_skadi",
 	"item_assault", --强袭
-	"item_heart",
+	"item_ultimate_scepter",
+	"item_ultimate_scepter_2",
+	"item_aghanims_shard",
+	"item_travel_boots_2",
 }
 
 return X
