@@ -15,6 +15,7 @@ X.ItemsToBuy =
 	"item_black_king_bar", --BKB
 	"item_assault", --强袭
 	"item_heart",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_aghanims_shard",
 	"item_travel_boots_2",
