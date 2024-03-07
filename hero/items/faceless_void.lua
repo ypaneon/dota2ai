@@ -16,8 +16,9 @@ X.ItemsToBuy =
 	"item_sange_and_yasha",
 	"item_mjollnir",
 	"item_greater_crit",
-	"item_butterfly" --蝴蝶
+	"item_butterfly", --蝴蝶
 	"item_satanic",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_aghanims_shard",
 	"item_travel_boots_2",
