@@ -7,17 +7,18 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_quelling_blade",
-	"item_soul_ring", --魂戒
+	"item_bracer",
 	"item_magic_wand", --大魔棒7.14
 	"item_power_treads", --假腿7.21
-	"item_ancient_janggo", --战鼓7.20
-	"item_lesser_crit",
+	"item_mage_slayer",
+	"item_manta",
 	"item_black_king_bar", --BKB
 	"item_assault", --强袭
-	"item_blink",
-	"item_greater_crit",
-	"item_overwhelming_blink",
+	"item_heart",
+	"item_ultimate_scepter_2",
+	"item_aghanims_shard",
+	"item_travel_boots_2",
+	
 }
 
 return X
