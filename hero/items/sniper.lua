@@ -8,18 +8,18 @@ X.ItemsToBuy =
 {
 	"item_tango",
 	"item_wraith_band", --系带
-	"item_tango",
-	"item_flask",
-	-- "item_phase_boots", --相位7.21
 	"item_power_treads",
+	"item_javelin",
 	"item_maelstrom",
+	"item_dragon_lance",
 	"item_desolator",
+	"item_mjollnir",
 	"item_hurricane_pike",
 	"item_black_king_bar", --bkb
-	"item_hyperstone",
-	"item_recipe_mjollnir", --大雷锤
 	"item_greater_crit",
 	"item_ultimate_scepter_2"
+	"item_aghanims_shard",
+	"item_travel_boots_2",
 }
 
 return X
