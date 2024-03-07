@@ -21,6 +21,7 @@ X.ItemsToBuy =
 	"item_satanic",
 	"item_ultimate_scepter", --蓝杖
 	"item_ultimate_scepter_2",
+	"item_travel_boots_2",
 }
 
 return X
