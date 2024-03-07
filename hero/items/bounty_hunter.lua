@@ -10,7 +10,7 @@ X.ItemsToBuy =
   	"item_magic_wand",
   	"item_orb_of_corrosion",
 	"item_phase_boots",
- 	 "item_phylactery",
+ 	"item_phylactery",
   	"item_desolator",
   	"item_angels_demise",
   	"item_black_king_bar",
