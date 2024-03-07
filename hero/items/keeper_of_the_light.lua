@@ -15,7 +15,7 @@ X.ItemsToBuy =
 	"item_kaya_and_sange",
 	"item_travel_boots",
 	"item_sheepstick", --羊刀
-	"item_dagon_5"
+	"item_dagon_5",
 	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_aghanims_shard",
