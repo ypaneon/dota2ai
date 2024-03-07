@@ -13,7 +13,7 @@ X.ItemsToBuy =
   	"item_phylactery",
   	"item_rod_of_atos",
   	"item_aghanims_shard",
-  	"item_gungir",
+  	--"item_gungir",
   	"item_angels_demise",
   	"item_force_staff",
   	"item_ultimate_scepter",
