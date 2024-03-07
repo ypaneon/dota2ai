@@ -17,9 +17,10 @@ X.ItemsToBuy =
 	"item_aghanims_shard",
 	"item_greater_crit",
 	"item_assault", --强袭
-	"item_ultimate_scepter_2",
 	"item_overwhelming_blink",
 	"item_travel_boots_2",
+	"item_ultimate_scepter",
+	"item_ultimate_scepter_2",
 	
 }
 
