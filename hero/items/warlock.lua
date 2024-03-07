@@ -17,6 +17,7 @@ X.ItemsToBuy =
 	"item_sheepstick",
 	"item_ultimate_scepter_2",
 	"item_octarine_core",
+	"item_travel_boots_2",
 	
 }
 
