@@ -11,14 +11,16 @@ X.ItemsToBuy =
 	"item_magic_wand", --大魔棒7.14
 	"item_power_treads",
 	"item_desolator",
+	"item_basher",
 	"item_aghanims_shard",
 	"item_black_king_bar", --bkb
 	"item_blink",
+	"item_abyssal_blade",
 	"item_assault", --强袭
-	"item_ultimate_scepter", --蓝杖
 	"item_overwhelming_blink",
+	"item_ultimate_scepter", --蓝杖
 	"item_ultimate_scepter_2",
-	"item_monkey_king_bar",
+	"item_travel_boots_2",
 }
 
 return X
