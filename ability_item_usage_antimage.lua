@@ -28,20 +28,20 @@ local AbilityToLevelUp = {
 	Abilities[2],
 	Abilities[1],
 	Abilities[3],
-	Abilities[2],
-	Abilities[5],
-	Abilities[2],
-	Abilities[2],
 	Abilities[1],
+	Abilities[6],
+	Abilities[1],
+	Abilities[2],
+	Abilities[2],
 	"talent",
-	Abilities[1],
-	Abilities[5],
+	Abilities[2],
+	Abilities[6],
 	Abilities[3],
 	Abilities[3],
 	"talent",
 	Abilities[3],
 	"nil",
-	Abilities[5],
+	Abilities[6],
 	"nil",
 	"talent",
 	"nil",
@@ -52,14 +52,18 @@ local AbilityToLevelUp = {
 }
 
 local TalentTree = {
-	function() return Talents[1] end,
-	function() return Talents[4] end,
-	function() return Talents[5] end,
-	function() return Talents[7] end,
-	function() return Talents[2] end,
-	function() return Talents[3] end,
-	function() return Talents[6] end,
-	function() return Talents[8] end,
+	function() 
+		return Talents[1] 
+	end,
+	function() 
+		return Talents[4] 
+	end,
+	function() 
+		return Talents[6] 
+	end,
+	function() 
+		return Talents[7] 
+	end,
 }
 
 utility.CheckAbilityBuild(AbilityToLevelUp)
