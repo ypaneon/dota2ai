@@ -9,7 +9,7 @@ X.ItemsToBuy =
 	"item_tango",
 	"item_magic_wand",
 	"item_null_talisman",
-	"item_tranquil_boots",
+	"item_arcane_boots",
 	"item_phylactery",
 	"item_glimmer_cape", --微光
 	"item_kaya",
