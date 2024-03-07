@@ -16,7 +16,7 @@ X.ItemsToBuy =
 	"item_greater_crit",
 	"item_silver_edge", --大隐刀
 	"item_butterfly", --蝴蝶
-	"item_satanic" --撒旦7.07
+	"item_satanic", --撒旦7.07
 	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_aghanims_shard",
