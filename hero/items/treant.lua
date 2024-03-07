@@ -7,20 +7,19 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_tango",
-	"item_enchanted_mango",
-	"item_magic_stick",
+	"item_magic_wand",
 	"item_bracer",
 	"item_arcane_boots", --秘法鞋
-	"item_medallion_of_courage", --勋章
+	"item_solar_crest", --大勋章7.20
 	"item_mekansm", --梅肯
 	"item_guardian_greaves", --卫士胫甲
 	"item_force_staff",
-	"item_solar_crest", --大勋章7.20
+	"item_aghanims_shard",
+	"item_heart",
+	"item_sheepstick",
 	"item_lotus_orb", --清莲宝珠
 	"item_ultimate_scepter", --蓝杖
 	"item_ultimate_scepter_2",
-	"item_refresher" --刷新球
 }
 
 return X
