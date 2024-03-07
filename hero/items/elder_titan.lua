@@ -7,19 +7,19 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_tango",
 	"item_magic_wand", --大魔棒7.14
 	"item_bracer",
-	"item_tranquil_boots",
-	"item_circlet",
-	"item_ring_of_protection",
-	"item_urn_of_shadows",
-	"item_pipe", --笛子
-	"item_rod_of_atos", --阿托斯7.20
+	"item_phase_boots",
+	"item_orb_of_corrosion",
+	"item_echo_sabre",
+	"item_sange_and_yasha",
 	"item_ultimate_scepter", --蓝杖
-	"item_lotus_orb",
+	"item_basher",
+	"item_harpoon",
+	"item_abyssal_blade",
+	"item_heart",
 	"item_ultimate_scepter_2",
-	"item_black_king_bar" --bkb
+	"item_travel_boots_2",
 }
 
 return X
