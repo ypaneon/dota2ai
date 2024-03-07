@@ -8,18 +8,20 @@ X.ItemsToBuy =
 {
 	"item_null_talisman",
 	"item_tango",
-	"item_enchanted_mango",
-	"item_boots",
 	"item_magic_wand", --大魔棒7.14
 	"item_power_treads",
-	"item_veil_of_discord", --纷争7.20
+	"item_phylactery", --纷争7.20
 	"item_orchid", --紫苑
-	"item_black_king_bar", --bkb
+	"item_yasha_and_kaya",
+	"item_aghanims_shard",
+	"item_mjollnir", --bkb
+	"item_devastator",
+	"item_bloodthorn" --血棘
 	"item_ultimate_scepter", --蓝杖
 	"item_ultimate_scepter_2",
-	"item_shivas_guard", --希瓦
-	"item_aghanims_shard",
-	"item_bloodthorn" --血棘
+	"item_sheepstick",
+	"item_travel_boots_2",
+
 }
 
 return X
