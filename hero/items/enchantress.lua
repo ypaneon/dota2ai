@@ -18,7 +18,7 @@ X.ItemsToBuy =
 	"item_hurricane_pike",
 	"item_monkey_king_bar", --金箍棒7.14
 	"item_moon_shard",
-	"item_travel_boots_2"
+	"item_travel_boots_2",
 }
 
 return X
