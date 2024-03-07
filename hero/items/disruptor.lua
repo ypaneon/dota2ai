@@ -10,7 +10,7 @@ X.ItemsToBuy =
 	"item_magic_wand",
 	"item_arcane_boots",
 	"item_phylactery",
-	"item_aether_lens"
+	"item_aether_lens",
 	"item_glimmer_cape",
 	"item_angels_demise",
 	"item_ultimate_scepter", --蓝杖
