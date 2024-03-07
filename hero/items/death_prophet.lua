@@ -20,6 +20,7 @@ X.ItemsToBuy =
 	"item_ultimate_scepter",
 	"item_lotus_orb",
 	"item_ultimate_scepter_2",
+	"item_travel_boots_2",
 }
 
 return X
