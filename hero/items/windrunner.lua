@@ -20,6 +20,7 @@ X.ItemsToBuy =
 	"item_monkey_king_bar",
 	"item_ultimate_scepter_2",
 	"item_satanic",
+	"item_travel_boots_2",
 }
 
 return X
