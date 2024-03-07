@@ -17,6 +17,7 @@ X.ItemsToBuy = {
 	"item_devastator",
 	"item_greater_crit",
 	"item_monkey_king_bar",
+	"item_ultimate_scepter",
 	"item_ultimate_scepter_2",
 	"item_sheepstick",
 	"item_travel_boots_2",
