@@ -17,6 +17,7 @@ X.ItemsToBuy =
   	"item_crimson_guard",
 	"item_black_king_bar", --BKB
 	"item_heart",
+	"item_ultimate_scepter",
   	"item_ultimate_scepter_2",
 	"item_overwhelming_blink",
   	"item_travel_boots_2",
