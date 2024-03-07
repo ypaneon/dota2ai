@@ -7,18 +7,22 @@ local X = {}
 X.ItemsToBuy =
 {
 	"item_tango",
-	"item_orb_of_venom",
-	"item_wraith_band", --系带
-	"item_phase_boots",
 	"item_magic_wand", --大魔棒7.14
+	"item_wraith_band", --系带
 	"item_orb_of_corrosion",
-	"item_maelstrom",
+	"item_phase_boots",
 	"item_echo_sabre", --连击刀
+	"item_javelin",
+	"item_maelstrom",
 	"item_black_king_bar", --bkb
+	"item_mjollnir",
+	"item_harpoon",
 	"item_skadi", --冰眼
 	"item_butterfly",
-	"item_hyperstone",
-	"item_recipe_mjollnir" --大雷锤
+	"item_ultimate_scepter",
+	"item_ultimate_scepter_2",
+	"item_aghanims_shard",
+	"item_travel_boots_2",
 }
 
 return X
