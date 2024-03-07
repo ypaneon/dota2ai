@@ -15,7 +15,7 @@ X.ItemsToBuy =
 	"item_force_staff",
 	"item_ultimate_scepter", --蓝杖
 	"item_lotus_orb", --清莲宝珠
-	"item_sheepstick" --羊刀
+	"item_sheepstick", --羊刀
 	"item_aghanims_shard",
 	"item_ultimate_scepter_2",
 	"item_travel_boots_2",
