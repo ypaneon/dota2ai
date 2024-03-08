@@ -27,21 +27,21 @@ local AbilityToLevelUp =
 	Abilities[2],
 	Abilities[1],
 	Abilities[3],
+	Abilities[2],
+	Abilities[2],
+	Abilities[5],
+	Abilities[2],
 	Abilities[3],
 	Abilities[1],
-	Abilities[4],
+	"talent",
 	Abilities[1],
+	Abilities[5],
 	Abilities[1],
 	Abilities[3],
 	"talent",
 	Abilities[3],
-	Abilities[4],
-	Abilities[2],
-	Abilities[2],
-	"talent",
-	Abilities[2],
 	"nil",
-	Abilities[4],
+	Abilities[5],
 	"nil",
 	"talent",
 	"nil",
@@ -395,8 +395,8 @@ Consider[2] = function()
 end
 
 -- crystal_maiden_freezing_field
-Consider[4] = function()
-	local abilityNumber = 4
+Consider[5] = function()
+	local abilityNumber = 5
 	--------------------------------------
 	-- Generic Variable Setting
 	--------------------------------------
@@ -460,7 +460,7 @@ end
 local iceFreezingEnemy
 local freezingFieldHitSomeoneTimer
 
--- crystal_maiden_freezing_field_stop
+--[[crystal_maiden_freezing_field_stop
 Consider[5] = function()
 	local ability = AbilitiesReal[5]
 	if ability:IsHidden() or not ability:IsFullyCastable() then
@@ -469,11 +469,11 @@ Consider[5] = function()
 	-- If we haven't had an enemy in freezing field range in 1.5 seconds and we do
 	-- have an ally close to being in range, then cast stop freezing field
 	if freezingFieldHitSomeoneTimer ~= nil and DotaTime() - freezingFieldHitSomeoneTimer >= 1.5 and
-		#npcBot:GetNearbyHeroes(AbilitiesReal[4]:GetAOERadius() + 280, false, BOT_MODE_NONE) > 0 then
+		#npcBot:GetNearbyHeroes(AbilitiesReal[5]:GetAOERadius() + 280, false, BOT_MODE_NONE) > 0 then
 		return BOT_ACTION_DESIRE_HIGH
 	end
 	return 0
-end
+end]]
 
 AbilityExtensions:AutoModifyConsiderFunction(npcBot, Consider, AbilitiesReal)
 
@@ -487,13 +487,13 @@ function AbilityUsageThink()
 				npcBot:Action_ClearActions(true)
 			end
 		end
-		if npcBot:IsChanneling() and npcBot:GetCurrentActiveAbility() == AbilitiesReal[4] then
+		if npcBot:IsChanneling() and npcBot:GetCurrentActiveAbility() == AbilitiesReal[5] then
 			if not AbilityExtensions:IsFarmingOrPushing(npcBot) then
 				local glimmer = AbilityExtensions:GetAvailableItem(npcBot, "item_glimmer_cape")
 				if glimmer and glimmer:IsFullyCastable() then
 					ItemUsage.UseItemOnEntity(npcBot, glimmer, npcBot)
 				end
-				local enemies = npcBot:GetNearbyHeroes(AbilitiesReal[4]:GetAOERadius(), true, BOT_MODE_NONE)
+				local enemies = npcBot:GetNearbyHeroes(AbilitiesReal[5]:GetAOERadius(), true, BOT_MODE_NONE)
 				if #enemies > 0 or freezingFieldHitSomeoneTimer == nil then
 					freezingFieldHitSomeoneTimer = DotaTime()
 				else
@@ -501,7 +501,7 @@ function AbilityUsageThink()
 					-- freezing field range in 1.5 seconds and we do have an ally close
 					-- to being in range, then interrupt casting
 					if DotaTime() - freezingFieldHitSomeoneTimer >= 1.5 and
-						#npcBot:GetNearbyHeroes(AbilitiesReal[4]:GetAOERadius() + 150, false, BOT_MODE_NONE) > 0 then
+						#npcBot:GetNearbyHeroes(AbilitiesReal[5]:GetAOERadius() + 150, false, BOT_MODE_NONE) > 0 then
 						local location = npcBot:GetLocation() + RandomVector(50)
 						npcBot:Action_ClearActions(true)
 					end
