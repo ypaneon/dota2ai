@@ -30,19 +30,19 @@ local AbilityToLevelUp =
 	Abilities[1],
 	Abilities[2],
 	Abilities[2],
-	Abilities[6],
+	Abilities[5],
 	Abilities[2],
 	Abilities[4],
 	Abilities[4],
 	"talent",
 	Abilities[4],
-	Abilities[6],
+	Abilities[5],
 	Abilities[1],
 	Abilities[1],
 	"talent",
 	Abilities[1],
 	"nil",
-	Abilities[6],
+	Abilities[5],
 	"nil",
 	"talent",
 	"nil",
@@ -422,8 +422,8 @@ Consider[3] = function()
 
 end
 
-Consider[6] = function()
-	local abilityNumber = 6
+Consider[5] = function()
+	local abilityNumber = 5
 	--------------------------------------
 	-- Generic Variable Setting
 	--------------------------------------
@@ -470,7 +470,7 @@ Consider[6] = function()
 end
 
 -- rampage
-Consider[4] = function()
+--[[Consider[4] = function()
 	local abilityNumber = 4
 	--------------------------------------
 	-- Generic Variable Setting
@@ -518,7 +518,7 @@ Consider[4] = function()
 	end
 
 	return BOT_ACTION_DESIRE_NONE
-end
+end]]
 
 AbilityExtensions:AutoModifyConsiderFunction(npcBot, Consider, AbilitiesReal)
 
