@@ -13,7 +13,7 @@ X.ItemsToBuy =
 	"item_diffusal_blade", --散失刀
 	"item_manta", --分身
 	"item_heart", --龙心7.20
-	"item_diesperser",
+	"item_disperser",
 	"item_butterfly",
 	"item_skadi",
 	"item_ultimate_scepter",
